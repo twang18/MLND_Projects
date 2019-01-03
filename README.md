@@ -1,4 +1,5 @@
-# 机器学习工程师纳米学位 Machine Learning Engineer Nanodegree
+# 机器学习工程师纳米学位
+# Machine Learning Engineer Nanodegree
 ## ![](https://github.com/twang18/MLND_Projects/blob/master/ML%20Certificate.png)
 
 ### 学位概述
@@ -23,7 +24,7 @@
 
 4. 非监督学习：创建客户细分
 
-   **所需技能**：python, jupyter notebook, sklearn，特征工程，特征缩放，异常值检测, PCA，比较个非监督学习模型，创建聚类及可视化，模型回归与分类
+   **所需技能**：python, jupyter notebook, sklearn，特征工程，特征缩放，异常值检测, PCA，比较各非监督学习模型，创建聚类及可视化，模型回归与分类
 
 5. 深度学习： CNN算法进行狗的品种分类
 
