@@ -37,4 +37,42 @@
 7. 毕业项目：预测欧洲连锁药妆店Rossmann的营业额
 
    **所需技能**：数据挖掘，数据预处理，特征工程与选择，算法比较、选择与参数优化，模型回归，数据可视化，商业分析
+   
+## Project Portfolio
+**Predict Your Cuisine**
+- Load the data set (39774 rows for train set and 9944 rows for test set) from Kaggle competition; perform statistical analysis
+- Apply NLP techniques to pre-process the cuisine and ingredients
+- Perform Logistic Regression and grid search to train and optimize the model and then make prediction for the test set
+
+**Predict Boston’s Housing Price**
+- Perform statistical analysis and feature engineering; split the data set and train the model with decision tree algorithm
+- Perform grid search and cross validation to optimize the model and make price prediction
+- Evaluate the coefficient of determination,  the robustness and the applicability of the model 
+
+**Supervised Learning – Finding Donors for CharityML**
+- Perform EDA and data wrangling on the data set
+- Select 3 algorithms (Decision Tree, SVM and Adaboost) from 7 supervised learning techniques to train the model, compare and evaluate the models using different metrics and select the optimal model
+- Optimize the model and make the prediction
+
+**Unsupervised Learning – Customer Segments**
+- Carry out feature engineering and scaling, outliers detection and removal
+- Perform PCA, compare unsupervised models and create K-means clusters
+- Conduct clusters and data distribution visualization, and A/B test discussion
+
+**Deep Learning – Dog Breed Classifier**
+- Use OpenCV's classifier to detect human faces
+- Pre-process the data for CNN architecture
+- Build a CNN from scratch to predict the dogs' breeds
+- Apply a CNN model for transfer learning
+- Write and test my algorithm based on the optimum CNN model selected to classify dog breeds
+
+**Reinforcement Learning – Robot Maze**
+- Create the maze; apply Q-learning algorithm to guide the robot’s movement in the maze
+- Use the most updated reinforcement technique to train a robot in a maze and avoid traps
+
+**Capstone Project – Predict Rossmann Store Sales**
+- Download data sets from Kaggle and perform data wrangling preprocessing, EDA and data visualization
+- Perform feature engineering; conduct comparison, selection and optimize of different algorithms
+- Train the model and fine-tune the parameters to make prediction and visualization
+   
 
