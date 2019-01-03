@@ -27,7 +27,7 @@
 
 这个项目要求使用 Python 并且需要安装下面这些python包：
 
-- [Python](https://www.python.org/download/releases/2.7/
+- [Python](https://www.python.org/download/releases/2.7/)
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
